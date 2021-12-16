@@ -1,2 +1,2 @@
 # ThesisFishSound
-Master thesis IMBRSea, fish mating sounds
+Master thesis IMBRSea on the sounds that fish (meagre) make before, during and after mating.
